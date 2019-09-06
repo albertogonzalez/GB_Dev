@@ -29,6 +29,16 @@ If you know of any other resource missing from this list, I would appreciate tha
 - [GB-Convert](https://github.com/exezin/gb-convert): Gameboy-convert is a simple tool to convert png images, into a format supported by Gameboy assembly.
 
 
+## Videos
+
+- [The Ultimate Game Boy Talk (33c3)] (https://www.youtube.com/watch?v=HyzD8pNlpwI)
+- [The Game Boy, a hardware autopsy - Part 1: the CPU] (https://www.youtube.com/watch?v=RZUDEaLa5Nw)
+- [The Game Boy, a hardware autopsy - Part 2: memory mapping] (https://www.youtube.com/watch?v=ecTQVa42sJc)
+- [Introduction to GBZ80 Assembly programming on the Gameboy and Gameboy Color] (https://www.youtube.com/watch?v=Tn1rFUutkdo)
+- [Learn how to write GameBoy games in C (GBDK)] (https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo)
+- [Game Boy Programming ZGB] (https://www.youtube.com/playlist?list=PLWgqI8-pC6W2T2lM0iMzJIwj0Nvsmwvn1)
+
+
 ## Community
 - [GBDev Discord server] (https://discordapp.com/invite/gpBxq85)
 - [Gameboy Development Forum] (http://gbdev.gg8.se/forums/)
